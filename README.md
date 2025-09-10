@@ -35,3 +35,4 @@ _You're Not Doing It Wrong If No One Knows What You're Doing_
 
 ## People of Interest
 [Abraham Lincoln][1]
+![ME](https://github.com/ur-local-duummyAboutMe/blob/master/img/Screenshot2025-08-12120523)
