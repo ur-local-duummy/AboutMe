@@ -21,10 +21,12 @@ Favorite Games
 * Plants Vs Zombies
 
 Favorite Songs
-1. Money Longer
-2. Break The Bank
-3. Meh
-4. New Patek
+| Artist | Song 
+|:-|:----:|
+|Lil Uzi Vert | Money Longer|
+|Lil Uzi Vert And Playboi Carti | Break The Bank|
+|PlayBoi Carti | Meh |
+|Lil Uzi Vert | New Patek |
 
 ## My Motto
 _You're Not Doing It Wrong If No One Knows What You're Doing_
@@ -41,3 +43,5 @@ _You're Not Doing It Wrong If No One Knows What You're Doing_
 <kbd>
 ![ME](https://raw.githubusercontent.com/ur-local-duummy/AboutMe/161bbdcc54d7494a21c76562b241f1a904167dd7/img/RapBoy.png)
 </kbd><br>
+
+
