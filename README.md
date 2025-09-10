@@ -9,3 +9,14 @@ Hobbies
 - Music
 - Photo Editing
 - Video Editing
+
+Favorite Games
+* Rainbow Six Siege
+* Call Of Duty
+* Plants Vs Zombies
+
+Favorite Songs
+1. Money Longer
+2. Break The Bank
+3. Meh
+4. New Patek
