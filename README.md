@@ -35,6 +35,9 @@ _You're Not Doing It Wrong If No One Knows What You're Doing_
 
 ## People of Interest
 [Abraham Lincoln][1]
+<kbd>
 ![LINCON](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/960px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg)
-
+</kbd><br>
+<kbd>
 ![ME](https://raw.githubusercontent.com/ur-local-duummy/AboutMe/161bbdcc54d7494a21c76562b241f1a904167dd7/img/RapBoy.png)
+</kbd><br>
