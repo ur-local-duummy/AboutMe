@@ -20,3 +20,6 @@ Favorite Songs
 2. Break The Bank
 3. Meh
 4. New Patek
+
+## My Motto
+_You're Not Doing It Wrong If No One Knows What You're Doing_
